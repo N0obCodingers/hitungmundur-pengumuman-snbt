@@ -2,7 +2,7 @@
 <h2>Hitung Mundur Pengumuman Hasil SNBT 2023</h2>
 
 ## Link Countdown SNBT 2023
-https://n0obcodingers.my.id/countdownsnbt/
+[LINK COUNTDOWN SNBT|(https://n0obcodingers.my.id/countdownsnbt/)
 
 ### About
 This website was created using a programming language
