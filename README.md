@@ -16,4 +16,4 @@ for other resources you can see directly such as font image and etc.
 If you found one or more mistakes in this repository please let me know and i will fix it immediately
 
 ### Attachments
-![](https://raw.githubusercontent.com/N0obCodingers/hitungmundur-pengumuman-snbt/master/attachments/ss.jpg)
+![](https://raw.githubusercontent.com/N0obCodingers/hitungmundur-pengumuman-snbt/master/attachments/screenshoot.jpg)
